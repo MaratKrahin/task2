@@ -1,0 +1,9 @@
+/tmp/
+/*/*.db
+/*/*.*_backup
+/*/*.*_old
+/*/*.*_Store
+*.*_old
+*.*_backup
+*.*_Store
+*.db

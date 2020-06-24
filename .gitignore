@@ -1,9 +1,0 @@
-/1.2. Site For Import/tmp/
-/1.2. Site For Import/*/*.db
-/1.2. Site For Import/*/*.*_backup
-/1.2. Site For Import/*/*.*_old
-/1.2. Site For Import/*/*.*_Store
-*.*_old
-*.*_backup
-*.*_Store
-*.db
